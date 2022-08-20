@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @souvik-panda18
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning electronics engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️
 - 📫 email me :souvik1583panda@gmail.com
 
 <!---
